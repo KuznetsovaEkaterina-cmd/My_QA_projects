@@ -1,1 +1,1 @@
-# MPracticum_projects
+# MyPracticum_projects
